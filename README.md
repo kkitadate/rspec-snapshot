@@ -1,4 +1,4 @@
-# RSpec::Snapshot [![Build Status](https://travis-ci.com/levinmr/rspec-snapshot.svg?branch=master)](https://travis-ci.com/levinmr/rspec-snapshot)
+# RSpec::Snapshot [![Build Status](https://travis-ci.com/levinmr/rspec-snapshot.svg?branch=master)](https://travis-ci.com/kkitadate/rspec-snapshot)
 
 Adds snapshot testing to RSpec, inspired by [Jest](https://jestjs.io/).
 
